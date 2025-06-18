@@ -1,7 +1,7 @@
 ## Hi there 👋, I'm Tasha
 
 - 🖥️ Aspiring Full Stack Developer.
-- 🔭 I’m currently working on some web applications, UI/UX design for an app and my personal portfolio.
+- 🔭 I’m currently working on some web applications and UI/UX design for an app.
 - 🌱 I’m currently learning mobile app development. 
 - 👯 I’m looking to collaborate on any projects involving the front-end.
 - 📫 How to reach me:
