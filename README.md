@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Tasha
 
-- 🖥️ Aspiring Front-End Developer.
+- 🖥️ Front-End Developer.
 - 🔭 I’m currently working on some web applications and UI/UX design for an app.
 - 🌱 I’m currently learning mobile app development. 
 - 👯 I’m looking to collaborate on any projects involving the front-end.
